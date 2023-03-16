@@ -1,12 +1,11 @@
-## Hi there 👋
+# Welcome to Astra Development!
 
-<!--
+Astra Development is a public organization for people who are interested in discussing development ideas, sharing their thoughts, and helping us grow.
 
-**Here are some ideas to get you started:**
+## Working Projects
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our current project is [AstraBots](https://astrabots.xyz), a website for Discord bot and server owners. You can advertise your bots and servers, vote for them, and check out details of other bots and servers.
+
+We welcome contributions from developers of all skill levels. If you're interested in getting involved, please reach out to us through our website or GitHub repository.
+
+Thank you for joining us at Astra Development!
