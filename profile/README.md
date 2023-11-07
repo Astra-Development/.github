@@ -9,3 +9,7 @@ At present, our primary focus is on [AstraBots](https://astrabots.xyz), an innov
 We actively invite contributions from developers spanning the spectrum of expertise. Should you harbor an interest in engaging with us, we invite you to establish contact via our official website or GitHub repository.
 
 We extend our heartfelt appreciation for becoming a part of the Astra Development community!
+
+<figure class="video_container">
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"https://astrabots.xyz" style="border: 1px solid black"></iframe>
+</figure>
